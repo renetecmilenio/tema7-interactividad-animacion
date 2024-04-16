@@ -1,0 +1,28 @@
+.miclase {
+    background-color: blueviolet;
+}
+
+.miclase a {
+    color: rgb(255, 255, 255) !important;;
+}
+
+.subcategoria {
+    background-color: rgb(72, 177, 230);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.subcategoria a {
+
+    height: 40px;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: #1c6dbe;
+
+}
+
+.carousel-caption {
+    background: #00000052;
+}
